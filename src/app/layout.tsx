@@ -8,9 +8,10 @@ const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
 const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "neuro-core.ai — AI Consulting & Solutions",
+  title: "CoreNeurons.ai — AI Consulting & Solutions",
   description:
-    "neuro-core.ai helps businesses harness the power of artificial intelligence through strategic consulting, custom ML development, and seamless AI integration.",
+    "CoreNeurons.ai helps businesses harness the power of artificial intelligence through strategic consulting, custom ML development, and seamless AI integration.",
+  keywords: "AI consulting, artificial intelligence, ERP implementation, IPO readiness, finance transformation, machine learning, Gaurav Vashisht",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
