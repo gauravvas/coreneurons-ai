@@ -12,7 +12,7 @@ export default function Footer() {
                 N
               </div>
               <span className="font-semibold text-white">
-                neuro-core<span className="text-blue-400">.ai</span>
+                CoreNeurons<span className="text-blue-400">.ai</span>
               </span>
             </div>
             <p className="text-slate-400 text-sm leading-relaxed max-w-xs">
@@ -67,10 +67,10 @@ export default function Footer() {
 
         <div className="mt-10 pt-6 border-t border-white/5 flex flex-col sm:flex-row justify-between items-center gap-4">
           <p className="text-sm text-slate-500">
-            © {new Date().getFullYear()} neuro-core.ai. All rights reserved.
+            © {new Date().getFullYear()} CoreNeurons.ai. All rights reserved.
           </p>
           <p className="text-sm text-slate-500">
-            contact@neuro-core.ai
+            contact@coreneurons.ai
           </p>
         </div>
       </div>

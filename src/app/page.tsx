@@ -74,7 +74,7 @@ const services = [
 const testimonials = [
   {
     quote:
-      "neuro-core.ai transformed our supply chain with a predictive analytics system that cut costs by 23%. Their team is world-class.",
+      "CoreNeurons.ai transformed our supply chain with a predictive analytics system that cut costs by 23%. Their team is world-class.",
     name: "Sarah Chen",
     role: "CTO, LogiTech Supply",
   },
@@ -107,7 +107,7 @@ export default function HomePage() {
           </h1>
 
           <p className="max-w-2xl mx-auto text-lg md:text-xl text-slate-400 mb-10 leading-relaxed">
-            neuro-core.ai helps forward-thinking companies design, build, and deploy AI solutions
+            CoreNeurons.ai helps forward-thinking companies design, build, and deploy AI solutions
             that drive measurable business outcomes — from strategy to production.
           </p>
 
@@ -230,7 +230,7 @@ export default function HomePage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
               <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">
-                Why <span className="gradient-text">neuro-core.ai</span>?
+                Why <span className="gradient-text">CoreNeurons.ai</span>?
               </h2>
               <p className="text-slate-400 mb-8 leading-relaxed">
                 We bridge the gap between AI research and real-world business value. Our team of

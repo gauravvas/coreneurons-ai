@@ -24,7 +24,7 @@ export default function Navbar() {
             N
           </div>
           <span className="font-semibold text-white tracking-tight">
-            neuro-core<span className="text-blue-400">.ai</span>
+            CoreNeurons<span className="text-blue-400">.ai</span>
           </span>
         </Link>
 

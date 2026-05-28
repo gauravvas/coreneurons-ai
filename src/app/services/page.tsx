@@ -3,7 +3,7 @@ import Link from "next/link";
 import ExpertiseAccordion from "@/components/ExpertiseAccordion";
 
 export const metadata: Metadata = {
-  title: "Services — neuro-core.ai",
+  title: "Services — CoreNeurons.ai",
   description: "End-to-end AI consulting and engineering services from strategy to production.",
 };
 

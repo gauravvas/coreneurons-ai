@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "About Gaurav Vashisht — neuro-core.ai",
+  title: "About Gaurav Vashisht — CoreNeurons.ai",
   description:
     "20+ years of enterprise AI, ERP transformation, IPO readiness, and finance leadership. Certified Agentic AI PM · AAAI · ACM · IEEE.",
 };
@@ -102,7 +102,7 @@ export default function AboutPage() {
             <div>
               <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-blue-500/30 bg-blue-500/10 text-blue-300 text-sm font-medium mb-6">
                 <span className="w-1.5 h-1.5 rounded-full bg-blue-400 animate-pulse" />
-                Founder & CEO — neuro-core.ai
+                Founder & CEO — CoreNeurons.ai
               </div>
 
               <h1 className="text-5xl sm:text-6xl md:text-7xl font-bold text-white tracking-tight mb-4 leading-tight">
@@ -224,7 +224,7 @@ export default function AboutPage() {
               organisations from the ground up to support IPO-level scrutiny.
             </p>
             <p>
-              Gaurav founded <strong className="text-white">neuro-core.ai</strong> to bring this rare combination of hands-on
+              Gaurav founded <strong className="text-white">CoreNeurons.ai</strong> to bring this rare combination of hands-on
               technical depth, strategic clarity, and real-world operator experience to
               forward-thinking companies that are serious about AI — and serious about results.
             </p>

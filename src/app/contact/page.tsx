@@ -69,7 +69,7 @@ export default function ContactPage() {
               <div className="space-y-4">
                 <div className="p-5 rounded-2xl border border-white/8 bg-[#0d1526]">
                   <p className="text-xs text-slate-500 uppercase tracking-wider mb-1">Email</p>
-                  <p className="text-white text-sm">hello@neuro-core.ai</p>
+                  <p className="text-white text-sm">hello@coreneurons.ai</p>
                 </div>
                 <div className="p-5 rounded-2xl border border-white/8 bg-[#0d1526]">
                   <p className="text-xs text-slate-500 uppercase tracking-wider mb-1">Headquarters</p>
